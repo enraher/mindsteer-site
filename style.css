@@ -59,6 +59,17 @@ h3 {
   margin: 18px 0;
 }
 
+.landing-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 18px;
+  align-items: start;
+}
+
+.landing-grid .card {
+  margin: 0;
+}
+
 .notice {
   background: #fff8e8;
   border: 1px solid #f6dca3;
@@ -126,4 +137,10 @@ ul {
 footer {
   padding: 8px 0 40px;
   color: var(--muted);
+}
+
+@media (max-width: 840px) {
+  .landing-grid {
+    grid-template-columns: 1fr;
+  }
 }
