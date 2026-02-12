@@ -285,3 +285,19 @@ body.landing-page footer {
     font-size: 16px;
   }
 }
+
+body.landing-page.legal-page .container {
+  width: min(980px, calc(100% - 28px));
+}
+
+body.landing-page.legal-page header {
+  padding: 44px 0 12px;
+}
+
+body.landing-page.legal-page h1 {
+  font-size: clamp(30px, 4vw, 44px);
+}
+
+body.landing-page.legal-page .card {
+  background: rgba(255, 255, 255, 0.78);
+}
