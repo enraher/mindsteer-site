@@ -11,58 +11,118 @@
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Manrope:wght@400;500;600;700;800&display=swap"
       rel="stylesheet"
     />
     <link rel="stylesheet" href="./style.css" />
   </head>
   <body class="landing-page">
-    <div class="container">
-      <header>
-        <span class="eyebrow">MindSteer · Emotional Wellness</span>
-        <h1>MindSteer</h1>
-        <p class="subtitle">
-          MindSteer is a self-guided mental wellness app based on cognitive behavioral principles (CBT).
-          It helps users track mood, work through structured exercises, build healthier thinking habits,
-          and monitor progress over time.
-        </p>
-        <div class="mood-pills">
-          <span class="pill">Happy</span>
-          <span class="pill">Calm</span>
-          <span class="pill">Energized</span>
-          <span class="pill">Neutral</span>
-        </div>
-      </header>
+    <nav class="site-nav" aria-label="Primary navigation">
+      <a class="brand-mark" href="./index.html" aria-label="MindSteer home">
+        <span class="brand-symbol">M</span>
+        <span>MindSteer</span>
+      </a>
+      <div class="nav-links">
+        <a href="./privacy.html">Privacy</a>
+        <a href="./terms.html">Terms</a>
+        <a href="./data-deletion.html">Data Deletion</a>
+      </div>
+    </nav>
 
-      <main class="landing-grid">
-        <section class="card">
-          <h2>App Review</h2>
-          <p class="meta">Main app screenshot used for review context.</p>
-          <img class="screenshot" src="./assets/app-screenshot.png" alt="MindSteer app screenshot" />
-        </section>
-
-        <section class="card">
-          <h2>Legal Information</h2>
-          <p class="meta">Public URLs for Facebook Login and App Store legal requirements.</p>
-          <div class="links">
-            <a class="button" href="./privacy.html">Privacy Policy</a>
-            <a class="button" href="./terms.html">Terms of Use</a>
-            <a class="button" href="./data-deletion.html">Account and Data Deletion</a>
+    <main>
+      <section class="hero-shell">
+        <div class="hero-copy">
+          <p class="eyebrow">Self-guided emotional wellness</p>
+          <h1>MindSteer</h1>
+          <p class="hero-lede">
+            A calm, human-centered CBT companion for mood tracking, guided reflection, daily habits,
+            and progress you can actually understand.
+          </p>
+          <div class="hero-actions">
+            <a class="button primary" href="./privacy.html">Privacy Policy</a>
+            <a class="button secondary" href="./terms.html">Terms of Use</a>
           </div>
-          <p class="small">
-            MindSteer is made by humans, for humans. Some parts of the app and its development workflow may
-            have been assisted by AI tools.
-          </p>
-          <p class="small">
-            Important: MindSteer is not a medical service and does not provide medical, psychiatric,
-            or emergency care.
-          </p>
-        </section>
-      </main>
+        </div>
 
-      <footer>
-        <p>Contact: mind.steer.app@gmail.com</p>
-      </footer>
-    </div>
+        <div class="product-stage" aria-label="MindSteer app preview">
+          <div class="device-frame">
+            <img src="./assets/app-screenshot.png" alt="MindSteer app screenshot" />
+          </div>
+          <div class="floating-note">
+            <strong>CBT-based</strong>
+            <span>Self-guided exercises, mood check-ins, and progress tracking.</span>
+          </div>
+        </div>
+      </section>
+
+      <section class="signature-strip" aria-label="MindSteer principles">
+        <div>
+          <span>01</span>
+          <strong>Made by humans, for humans</strong>
+        </div>
+        <div>
+          <span>02</span>
+          <strong>Not medical or emergency care</strong>
+        </div>
+        <div>
+          <span>03</span>
+          <strong>Privacy and user control first</strong>
+        </div>
+      </section>
+
+      <section class="content-band">
+        <div class="section-heading">
+          <p class="eyebrow">What the app supports</p>
+          <h2>Small rituals for clearer thinking.</h2>
+        </div>
+        <div class="feature-grid">
+          <article class="feature-tile">
+            <span class="tile-index">Mood</span>
+            <h3>Check in with your emotional state</h3>
+            <p>Track how you feel and use that context to guide your next action inside the app.</p>
+          </article>
+          <article class="feature-tile">
+            <span class="tile-index">CBT</span>
+            <h3>Work through structured exercises</h3>
+            <p>Use self-guided cognitive behavioral tools designed for reflection and habit building.</p>
+          </article>
+          <article class="feature-tile">
+            <span class="tile-index">Calm</span>
+            <h3>Return to a steadier pace</h3>
+            <p>Breathing, meditation, reminders, and calming content help build a daily wellness rhythm.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="legal-band" aria-label="Legal information">
+        <div>
+          <p class="eyebrow">Public review links</p>
+          <h2>Legal information for Facebook Login and App Store review.</h2>
+          <p>
+            MindSteer is a self-guided wellness app. It does not provide medical diagnosis, psychotherapy,
+            psychiatric care, or emergency services.
+          </p>
+        </div>
+        <div class="legal-link-panel">
+          <a class="document-link" href="./privacy.html">
+            <span>Privacy Policy</span>
+            <small>Data processing, rights, security, and contact.</small>
+          </a>
+          <a class="document-link" href="./terms.html">
+            <span>Terms of Use</span>
+            <small>Service limits, jurisdiction, liability, and acceptable use.</small>
+          </a>
+          <a class="document-link" href="./data-deletion.html">
+            <span>Account and Data Deletion</span>
+            <small>In-app deletion steps and support information.</small>
+          </a>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <p>MindSteer is made by humans, for humans. Some parts of the app and its development workflow may have been assisted by AI tools.</p>
+      <a href="mailto:mind.steer.app@gmail.com">mind.steer.app@gmail.com</a>
+    </footer>
   </body>
 </html>
