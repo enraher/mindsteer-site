@@ -2,6 +2,7 @@
   --ink: #17241f;
   --muted: #607168;
   --deep: #4c7a66;
+  --deep-ink: #244f40;
   --sage: #77a58b;
   --mint: #dfece3;
   --cream: #fffaf0;
@@ -90,7 +91,7 @@ a {
 }
 
 .brand-name {
-  color: var(--deep);
+  color: var(--deep-ink);
   white-space: nowrap;
 }
 
@@ -165,7 +166,7 @@ a {
 }
 
 .hero h1 {
-  color: var(--deep);
+  color: var(--deep-ink);
   font-size: 86px;
 }
 
@@ -265,7 +266,7 @@ a {
 }
 
 .trust-row span {
-  color: var(--sage);
+  color: var(--deep-ink);
   font-size: 12px;
   font-weight: 800;
 }
