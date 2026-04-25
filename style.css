@@ -124,10 +124,10 @@ a {
 .hero {
   min-height: 660px;
   display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(300px, 430px);
-  gap: 56px;
+  grid-template-columns: minmax(0, 0.92fr) minmax(430px, 1.08fr);
+  gap: 42px;
   align-items: center;
-  padding: 58px;
+  padding: 52px;
   border: 1px solid var(--line);
   border-radius: 30px;
   background:
@@ -163,7 +163,12 @@ a {
   max-width: 610px;
   margin: 22px 0 0;
   color: var(--muted);
-  font-size: 20px;
+  font-size: 18px;
+}
+
+.secondary-copy {
+  margin-top: 14px;
+  font-size: 16px;
 }
 
 .hero-buttons {
@@ -190,30 +195,41 @@ a {
   color: var(--cream);
 }
 
-.button-light {
-  border: 1px solid var(--line);
-  background: rgba(255, 255, 255, 0.72);
-  color: var(--deep);
-}
-
 .phone-showcase {
+  min-height: 520px;
+  position: relative;
   display: flex;
-  justify-content: center;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 16px;
 }
 
 .phone-card {
-  width: min(360px, 100%);
-  padding: 12px;
+  width: min(190px, 31%);
+  padding: 8px;
   border: 1px solid rgba(23, 36, 31, 0.12);
-  border-radius: 36px;
+  border-radius: 28px;
   background: rgba(255, 255, 255, 0.72);
-  box-shadow: 0 30px 64px rgba(23, 36, 31, 0.22);
+  box-shadow: 0 26px 54px rgba(23, 36, 31, 0.2);
+}
+
+.phone-card-offset {
+  transform: translateY(-34px);
 }
 
 .phone-card img {
   display: block;
   width: 100%;
-  border-radius: 28px;
+  border-radius: 22px;
+}
+
+.phone-card span {
+  display: block;
+  padding: 10px 4px 4px;
+  color: var(--deep);
+  text-align: center;
+  font-size: 12px;
+  font-weight: 800;
 }
 
 .trust-row {
@@ -437,7 +453,17 @@ a {
   }
 
   .phone-card {
-    width: min(320px, 100%);
+    width: min(260px, 100%);
+  }
+
+  .phone-showcase {
+    min-height: auto;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .phone-card-offset {
+    transform: none;
   }
 
   .trust-row {
