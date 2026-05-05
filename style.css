@@ -167,12 +167,11 @@ button:focus-visible {
 }
 
 .hero {
-  min-height: calc(100dvh - 86px);
   display: grid;
-  grid-template-columns: minmax(0, 0.9fr) minmax(520px, 1fr);
+  grid-template-columns: minmax(0, 0.98fr) minmax(340px, 0.58fr);
   gap: clamp(48px, 6vw, 88px);
-  align-items: center;
-  padding: clamp(76px, 9vw, 132px) 0 clamp(72px, 8vw, 116px);
+  align-items: start;
+  padding: clamp(76px, 8vw, 112px) 0 clamp(72px, 8vw, 110px);
 }
 
 .hero-content {
@@ -259,14 +258,9 @@ button:focus-visible {
   text-underline-offset: 6px;
 }
 
-.phone-showcase {
-  min-height: 600px;
-  position: relative;
-  display: grid;
-  grid-template-columns: 1.06fr 0.82fr;
-  grid-template-rows: 1fr 1fr;
-  gap: 18px;
-  align-items: center;
+.hero-phone {
+  width: min(360px, 100%);
+  justify-self: end;
 }
 
 .phone-card {
@@ -274,15 +268,7 @@ button:focus-visible {
   overflow: hidden;
   background: rgba(255, 255, 255, 0.64);
   box-shadow: 0 24px 80px rgba(36, 79, 64, 0.14);
-}
-
-.phone-card-primary {
-  grid-row: 1 / span 2;
-  border-radius: 34px;
-}
-
-.phone-card-secondary {
-  border-radius: 26px;
+  border-radius: 30px;
 }
 
 .phone-card img {
@@ -408,6 +394,33 @@ button:focus-visible {
   font-size: 14px;
 }
 
+.screen-gallery {
+  padding: clamp(18px, 4vw, 42px) 0 clamp(88px, 10vw, 132px);
+  display: grid;
+  grid-template-columns: minmax(0, 0.68fr) minmax(420px, 0.9fr);
+  gap: clamp(42px, 7vw, 96px);
+  align-items: start;
+  border-top: 1px solid var(--line);
+}
+
+.gallery-copy h2 {
+  max-width: 620px;
+  margin: 0;
+  color: var(--deep-ink);
+  font-family: "Instrument Serif", Georgia, serif;
+  font-size: clamp(46px, 6vw, 78px);
+  font-weight: 400;
+  letter-spacing: -0.035em;
+  line-height: 0.98;
+  text-wrap: balance;
+}
+
+.gallery-screens {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 18px;
+}
+
 .footer {
   padding: 32px 0 54px;
   display: flex;
@@ -504,20 +517,18 @@ button:focus-visible {
 
 @media (max-width: 1040px) {
   .hero,
-  .split-section {
+  .split-section,
+  .screen-gallery {
     grid-template-columns: 1fr;
-  }
-
-  .hero {
-    min-height: auto;
   }
 
   .hero-content {
     max-width: 840px;
   }
 
-  .phone-showcase {
-    min-height: auto;
+  .hero-phone {
+    justify-self: start;
+    width: min(360px, 100%);
   }
 }
 
@@ -564,19 +575,8 @@ button:focus-visible {
     flex-direction: column;
   }
 
-  .phone-showcase {
-    display: flex;
-    gap: 12px;
-    overflow-x: auto;
-    margin-right: -14px;
-    padding-right: 14px;
-    scroll-snap-type: x mandatory;
-  }
-
-  .phone-card {
-    min-width: min(74vw, 310px);
-    border-radius: 26px;
-    scroll-snap-align: start;
+  .hero-phone {
+    width: min(74vw, 310px);
   }
 
   .trust-row {
@@ -598,7 +598,26 @@ button:focus-visible {
     padding-bottom: 80px;
   }
 
+  .screen-gallery {
+    padding-bottom: 80px;
+  }
+
+  .gallery-screens {
+    display: flex;
+    gap: 12px;
+    overflow-x: auto;
+    margin-right: -14px;
+    padding-right: 14px;
+    scroll-snap-type: x mandatory;
+  }
+
+  .gallery-screens .phone-card {
+    min-width: min(74vw, 310px);
+    scroll-snap-align: start;
+  }
+
   .split-section h2,
+  .gallery-copy h2,
   .legal-page h1 {
     font-size: clamp(42px, 12vw, 62px);
   }
