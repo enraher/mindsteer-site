@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.enrasoft.breakingnews",
+      "sha256_cert_fingerprints": [
+        "4B:C0:45:F2:1B:2C:55:96:8A:B1:23:4D:91:2A:AD:CF:28:27:C3:A9:7B:05:BC:C9:44:EC:57:57:DA:38:0C:17"
+      ]
+    }
+  }
+]

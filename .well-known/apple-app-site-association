@@ -1,0 +1,19 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "EV475YKHT9.com.enrasoft.breakingnews",
+        "paths": [
+          "/breaking-news/es/article/"
+        ]
+      },
+      {
+        "appID": "EV475YKHT9.com.enrasoft.breakingnews.usa",
+        "paths": [
+          "/breaking-news/us/article/"
+        ]
+      }
+    ]
+  }
+}
