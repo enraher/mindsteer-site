@@ -1,0 +1,220 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-30T08:22:29.620Z",
+  "verifiedDate": "2026-10-30",
+  "referenceCountry": "es",
+  "signature": "3431c5b09a16fa7a4299e87d5de94d9e90913e823764a8a061bfb1433edd7982",
+  "sources": [
+    {
+      "developerId": "8192983551091354439",
+      "state": "not_found",
+      "appCount": 0
+    },
+    {
+      "developerId": "5766982984185578999",
+      "state": "not_found",
+      "appCount": 0
+    },
+    {
+      "developerId": "4954003524097886100",
+      "state": "not_found",
+      "appCount": 0
+    },
+    {
+      "developerId": "4898984495339363497",
+      "state": "available",
+      "appCount": 9
+    }
+  ],
+  "apps": [
+    {
+      "packageName": "com.enrasoft.breakingnews",
+      "title": "Breaking News Spain",
+      "titles": {
+        "en": "Breaking News Spain",
+        "es": "Noticias Última Hora España",
+        "de": "Noticias Última Hora España",
+        "fr": "Noticias Última Hora España",
+        "it": "Noticias Última Hora España",
+        "pt": "Noticias Última Hora España",
+        "nl": "Noticias Última Hora España",
+        "el": "Noticias Última Hora España",
+        "pl": "Noticias Última Hora España",
+        "ru": "Noticias Última Hora España",
+        "ja": "Noticias Última Hora España",
+        "ko": "Noticias Última Hora España"
+      },
+      "iconUrl": "https://play-lh.googleusercontent.com/abZfKC_4iLQ7j2teUhjvac1YLm9sQwxOsqDcsxJ8BXFWsFEUhBT-mon1nbG3A7BK8QWI6ukclQ-7wGq95cu-lq0",
+      "playUrl": "https://play.google.com/store/apps/details?id=com.enrasoft.breakingnews",
+      "developerId": "4898984495339363497"
+    },
+    {
+      "packageName": "com.enrasoft.camera.ghost.detector",
+      "title": "Ghost Detector Camera & Radar",
+      "titles": {
+        "en": "Ghost Detector Camera & Radar",
+        "es": "Ghost Detector Camera & Radar",
+        "de": "Ghost Detector Camera & Radar",
+        "fr": "Ghost Detector Camera & Radar",
+        "it": "Ghost Detector Camera & Radar",
+        "pt": "Ghost Detector Camera & Radar",
+        "nl": "Ghost Detector Camera & Radar",
+        "el": "Ghost Detector Camera & Radar",
+        "pl": "Ghost Detector Camera & Radar",
+        "ru": "Ghost Detector Camera & Radar",
+        "ja": "Ghost Detector Camera & Radar",
+        "ko": "Ghost Detector Camera & Radar"
+      },
+      "iconUrl": "https://play-lh.googleusercontent.com/sf3kIntlGhKW6gvcqkW7KoyEWeryGUg16UYEHogZSXDsZkpv-WKpqiTEsZ_QYHhtylvzbM3xb0uXEkQh7FkiPKo",
+      "playUrl": "https://play.google.com/store/apps/details?id=com.enrasoft.camera.ghost.detector",
+      "developerId": "4898984495339363497"
+    },
+    {
+      "packageName": "com.enrasoft.IdleFactories",
+      "title": "Idle Factory Tycoon Simulator",
+      "titles": {
+        "en": "Idle Factory Tycoon Simulator",
+        "es": "Idle Factory Tycoon Simulator",
+        "de": "Idle Factory Tycoon Simulator",
+        "fr": "Idle Factory Tycoon Simulator",
+        "it": "Idle Factory Tycoon Simulator",
+        "pt": "Idle Factory Tycoon Simulator",
+        "nl": "Idle Factory Tycoon Simulator",
+        "el": "Idle Factory Tycoon Simulator",
+        "pl": "Idle Factory Tycoon Simulator",
+        "ru": "Idle Factory Tycoon Simulator",
+        "ja": "Idle Factory Tycoon Simulator",
+        "ko": "Idle Factory Tycoon Simulator"
+      },
+      "iconUrl": "https://play-lh.googleusercontent.com/EsHobKhE5TRWDhp7E9wtN5RBbzNKa9sJ_E0xR5awMYpdzaepjpiYd7PVVw9VuMxmzCl-fOgMftaQFBCj2dmz2Kg",
+      "playUrl": "https://play.google.com/store/apps/details?id=com.enrasoft.IdleFactories",
+      "developerId": "4898984495339363497"
+    },
+    {
+      "packageName": "com.enrasoft.keepcalm",
+      "title": "Keep Calm Generator",
+      "titles": {
+        "en": "Keep Calm Generator",
+        "es": "Generador (Mantenga la Calma)",
+        "de": "Keep Calm Generator",
+        "fr": "Gardez le calme Générateur",
+        "it": "Mantenere la calma generatore",
+        "pt": "Mantenha a calma gerador",
+        "nl": "Keep Calm Generator",
+        "el": "Keep Calm Generator",
+        "pl": "Zachowaj spokój Generator",
+        "ru": "Сохраняйте спокойствие генер.",
+        "ja": "冷静ジェネレータを保つ",
+        "ko": "진정 생성기를 유지"
+      },
+      "iconUrl": "https://play-lh.googleusercontent.com/QghgBvVtTnvu_HuHsZKhCETUNgc4SCUZY0XpGe9huuMK50_Vo3GC3Fepf91iLA4R9qr0w9qdXTIzBT86fhpsSg",
+      "playUrl": "https://play.google.com/store/apps/details?id=com.enrasoft.keepcalm",
+      "developerId": "4898984495339363497"
+    },
+    {
+      "packageName": "com.enrasoft.keepcalm.pro",
+      "title": "Keep Calm Generator PRO",
+      "titles": {
+        "en": "Keep Calm Generator PRO",
+        "es": "Generador de Mantenga la Calma",
+        "de": "Keep Calm Generator PRO",
+        "fr": "Gardez générateur calme PRO",
+        "it": "Generatore Mantenere la calma.",
+        "pt": "Mantenha a calma gerador PRO",
+        "nl": "Keep Calm Generator PRO",
+        "el": "Keep Calm Generator PRO",
+        "pl": "Zachowaj spokój generatora PRO",
+        "ru": "Сохраняйте спокойствие генера.",
+        "ja": "穏やかジェネレータプロフェッショナルを保つ",
+        "ko": "진정 발전기 전문을 유지"
+      },
+      "iconUrl": "https://play-lh.googleusercontent.com/2ovjbBuEgC0cK7L6fwHFPjHgMH8OW8OkplHUP3j2jHRjdIBoj-CtE4dAWBw69yVKi7qm-6jzhUSQXhftZlO6bMw",
+      "playUrl": "https://play.google.com/store/apps/details?id=com.enrasoft.keepcalm.pro",
+      "developerId": "4898984495339363497"
+    },
+    {
+      "packageName": "com.enrasoft.millionaire.quiz",
+      "title": "Millionaire Trivia: Quiz Game",
+      "titles": {
+        "en": "Millionaire Trivia: Quiz Game",
+        "es": "Millionaire Trivia: Juego Quiz",
+        "de": "Millionär Trivia: Quiz Spiel",
+        "fr": "Millionaire Trivia : Jeu Quiz",
+        "it": "Millionaire Trivia: Gioco Quiz",
+        "pt": "Millionaire Trivia: Quiz Game",
+        "nl": "Millionaire Trivia: Quiz Game",
+        "el": "Millionaire Trivia: Quiz Game",
+        "pl": "Millionaire Trivia: Quiz Game",
+        "ru": "Викторина Миллионер: Квиз Игра",
+        "ja": "Millionaire Trivia: Quiz Game",
+        "ko": "Millionaire Trivia: Quiz Game"
+      },
+      "iconUrl": "https://play-lh.googleusercontent.com/ZBfZ-God1M9fNFhOBrdoFtWxpbVZu4YgD2AW4l_9tGpuRSjwozCaQ_P7uYwQ9JJe9SIYEuYZtpis0ZjffMv1Ng",
+      "playUrl": "https://play.google.com/store/apps/details?id=com.enrasoft.millionaire.quiz",
+      "developerId": "4898984495339363497"
+    },
+    {
+      "packageName": "com.enrasoft.questions.quiz.pro",
+      "title": "6 of 6: General Knowledge Quiz",
+      "titles": {
+        "en": "6 of 6: General Knowledge Quiz",
+        "es": "6 de 6: Quiz y Cultura General",
+        "de": "6 von 6: Allgemeinwissen-Quiz",
+        "fr": "6 sur 6 : Culture générale",
+        "it": "6 su 6: Quiz cultura generale",
+        "pt": "6 de 6: Quiz de cultura geral",
+        "nl": "6 van 6: Algemene kennisquiz",
+        "el": "6 of 6: General Knowledge Quiz",
+        "pl": "6 z 6: Quiz z wiedzy ogólnej",
+        "ru": "6 из 6: Викторина на эрудицию",
+        "ja": "6 of 6: General Knowledge Quiz",
+        "ko": "6 of 6: General Knowledge Quiz"
+      },
+      "iconUrl": "https://play-lh.googleusercontent.com/ZFOh3607-Tom_5HJ0o-MV44ZbgQre5HXo7Uqp0Kqto5t-QCU5OFbEtnM2lnt4vz0U1Tp2aFGzMmrayiV3-3gTw",
+      "playUrl": "https://play.google.com/store/apps/details?id=com.enrasoft.questions.quiz.pro",
+      "developerId": "4898984495339363497"
+    },
+    {
+      "packageName": "com.enrasoft.scratchthat.logoquiz",
+      "title": "Scratch Logo Quiz",
+      "titles": {
+        "en": "Scratch Logo Quiz",
+        "es": "Scratch Logo Quiz: Rasca logos",
+        "de": "Scratch: Marken erraten",
+        "fr": "Scratch: Devine la marque",
+        "it": "Scratch: Indovina il logo",
+        "pt": "Scratch: Adivinhe o Logo",
+        "nl": "Scratch: Raad het logo",
+        "el": "Scratch: Κουίζ λογοτύπων",
+        "pl": "Scratch: Zgadnij logo",
+        "ru": "Scratch: Угадай логотип",
+        "ja": "Scratch ロゴ当てクイズ",
+        "ko": "Scratch 로고 퀴즈"
+      },
+      "iconUrl": "https://play-lh.googleusercontent.com/n0aZXk6a-lsi1Rk0jZJ4gax_tKORvEmfzgLnv4-JxFzGKz9VHnZbJMU_MhudwNdrMFnLr074FlHQN7FXvU5GFpU",
+      "playUrl": "https://play.google.com/store/apps/details?id=com.enrasoft.scratchthat.logoquiz",
+      "developerId": "4898984495339363497"
+    },
+    {
+      "packageName": "com.enrasoft.star.brain.quiz.pro",
+      "title": "QuizMundi: General Knowledge",
+      "titles": {
+        "en": "QuizMundi: General Knowledge",
+        "es": "Sabermundi: Cultura General",
+        "de": "Wissenswelt: Allgemeinwissen",
+        "fr": "SavoirMundi : Culture générale",
+        "it": "SapereMundi: Cultura generale",
+        "pt": "Sabermundi: Quiz e Cultura",
+        "nl": "Kenniswereld: Kennisquiz",
+        "el": "QuizMundi: General Knowledge",
+        "pl": "Świat Wiedzy: Quiz",
+        "ru": "Мир знаний: Викторина",
+        "ja": "QuizMundi: General Knowledge",
+        "ko": "QuizMundi: General Knowledge"
+      },
+      "iconUrl": "https://play-lh.googleusercontent.com/L0EzLcdDX0ue28RtNHJL8Xzp4EW62sGXr7AkTbKA3xW07HvZfxvLZAkAY08nTtNZI0ulQj7sKYzpeRdJ6gFS2ms",
+      "playUrl": "https://play.google.com/store/apps/details?id=com.enrasoft.star.brain.quiz.pro",
+      "developerId": "4898984495339363497"
+    }
+  ]
+}

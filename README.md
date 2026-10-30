@@ -18,3 +18,8 @@ when updating other sellers. GitHub Pages publishes the root of `main` using
 the custom domain in `CNAME`. After publishing, check the public file and request
 an update in AdMob. Store URL changes and crawler verification are separate
 steps; a saved draft in App Store Connect does not update the public listing.
+
+
+## Unified Android catalogue
+
+`catalog/apps-v1.json` is generated from the four public developer-profile IDs in `catalog/sources.json`, using `tools/catalog/sync.mjs`. It is refreshed once daily by `.github/workflows/sync-android-catalog.yml`, only while this repository is public and only on a standard free runner. No Firebase billing or permanent backend is used. See `tools/catalog/README.md` for source, freshness, deployment and failure handling.

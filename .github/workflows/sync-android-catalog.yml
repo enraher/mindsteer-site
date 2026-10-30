@@ -1,0 +1,41 @@
+name: Refresh public Android catalogue
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 6 * * *'
+  push:
+    branches: [main]
+    paths:
+      - 'catalog/sources.json'
+      - 'tools/catalog/**'
+      - '.github/workflows/sync-android-catalog.yml'
+permissions:
+  contents: write
+  pages: write
+concurrency:
+  group: public-android-catalogue
+  cancel-in-progress: false
+jobs:
+  refresh:
+    if: github.event.repository.private == false
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - run: npm ci --ignore-scripts --no-audit --no-fund
+        working-directory: tools/catalog
+      - run: node tools/catalog/sync.mjs
+      - name: Publish changed catalogue only
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if git diff --quiet -- catalog/apps-v1.json; then exit 0; fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add catalog/apps-v1.json
+          git commit -m 'Refresh public Android catalogue from Google Play'
+          git push origin HEAD:main
+          gh api "repos/$GITHUB_REPOSITORY/pages/builds" --method POST > /dev/null
