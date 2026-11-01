@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T12:27:00.285Z",
-  "verifiedDate": "2026-10-31",
+  "generatedAt": "2026-11-01T13:22:40.760Z",
+  "verifiedDate": "2026-11-01",
   "referenceCountry": "es",
-  "signature": "fd979976df852c8da19e376d4d49f7e31061706bea9e1efa96e742c98505be65",
+  "signature": "d3790369f51824e1eb88e2c14259e2a2fdf1a1fd0a609e6a579c1248f69a4420",
   "sources": [
     {
       "developerId": "8192983551091354439",
@@ -23,7 +23,7 @@
     {
       "developerId": "4898984495339363497",
       "state": "available",
-      "appCount": 9
+      "appCount": 10
     }
   ],
   "apps": [
@@ -193,6 +193,27 @@
       },
       "iconUrl": "https://play-lh.googleusercontent.com/n0aZXk6a-lsi1Rk0jZJ4gax_tKORvEmfzgLnv4-JxFzGKz9VHnZbJMU_MhudwNdrMFnLr074FlHQN7FXvU5GFpU",
       "playUrl": "https://play.google.com/store/apps/details?id=com.enrasoft.scratchthat.logoquiz",
+      "developerId": "4898984495339363497"
+    },
+    {
+      "packageName": "com.enrasoft.scratchthat.placequiz",
+      "title": "Scratch: Places & Flags",
+      "titles": {
+        "en": "Scratch: Places & Flags",
+        "es": "Rasca: Lugares y Banderas",
+        "de": "Rubbelquiz: Orte & Flaggen",
+        "fr": "Gratte : lieux et drapeaux",
+        "it": "Gratta: Luoghi e Bandiere",
+        "pt": "Raspe: Lugares e Bandeiras",
+        "nl": "Krasquiz: Plekken & Vlaggen",
+        "el": "Ξύσε: Μέρη και σημαίες",
+        "pl": "Zdrap: Miejsca i Flagi",
+        "ru": "Сотри: Места и флаги",
+        "ja": "スクラッチ：名所と国旗クイズ",
+        "ko": "스크래치: 명소와 국기 퀴즈"
+      },
+      "iconUrl": "https://play-lh.googleusercontent.com/2qbl4Qc2xC00NTn9DsR5XplmfZocjkNKWQ2xQWvAlJWuhpUm2008xrQ1SvSZ_ZF8ZS5lbf6WdKpux7JKTxNOTA",
+      "playUrl": "https://play.google.com/store/apps/details?id=com.enrasoft.scratchthat.placequiz",
       "developerId": "4898984495339363497"
     },
     {
