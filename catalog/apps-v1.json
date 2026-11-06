@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-05T14:38:24.213Z",
-  "verifiedDate": "2026-11-05",
+  "generatedAt": "2026-11-06T14:15:36.947Z",
+  "verifiedDate": "2026-11-06",
   "referenceCountry": "es",
-  "signature": "e5c6b0446bb5afe5b5dfa83582ffdcc3c39fd79cde9b49787441c010aff081ed",
+  "signature": "7aeb84364734805b2bc9a3746f2d822171e51fd906c5e386c3b37adc2993dafb",
   "sources": [
     {
       "developerId": "8192983551091354439",
@@ -70,27 +70,6 @@
       "developerId": "4898984495339363497"
     },
     {
-      "packageName": "com.enrasoft.keepcalm.pro",
-      "title": "Keep Calm Generator PRO",
-      "titles": {
-        "en": "Keep Calm Generator PRO",
-        "es": "Generador de Mantenga la Calma",
-        "de": "Keep Calm Generator PRO",
-        "fr": "Gardez générateur calme PRO",
-        "it": "Generatore Mantenere la calma.",
-        "pt": "Mantenha a calma gerador PRO",
-        "nl": "Keep Calm Generator PRO",
-        "el": "Keep Calm Generator PRO",
-        "pl": "Zachowaj spokój generatora PRO",
-        "ru": "Сохраняйте спокойствие генера.",
-        "ja": "穏やかジェネレータプロフェッショナルを保つ",
-        "ko": "진정 발전기 전문을 유지"
-      },
-      "iconUrl": "https://play-lh.googleusercontent.com/2ovjbBuEgC0cK7L6fwHFPjHgMH8OW8OkplHUP3j2jHRjdIBoj-CtE4dAWBw69yVKi7qm-6jzhUSQXhftZlO6bMw",
-      "playUrl": "https://play.google.com/store/apps/details?id=com.enrasoft.keepcalm.pro",
-      "developerId": "4898984495339363497"
-    },
-    {
       "packageName": "com.enrasoft.millionaire.quiz",
       "title": "Millionaire Trivia: Quiz Game",
       "titles": {
@@ -151,6 +130,27 @@
       },
       "iconUrl": "https://play-lh.googleusercontent.com/Me4KkOa2j_UxmMlkAtpCW3Nfq_FRaKSf0Xe5jsX4tLjOyVXRfV5fTuoUFgsEG60JU3Dtx48LL2QS7bS4l88pWg",
       "playUrl": "https://play.google.com/store/apps/details?id=com.enrasoft.scratch.celebrity.quiz",
+      "developerId": "4898984495339363497"
+    },
+    {
+      "packageName": "com.enrasoft.scratch.movie.quiz",
+      "title": "Guess the Movie",
+      "titles": {
+        "en": "Guess the Movie",
+        "es": "Adivina la película",
+        "de": "Errate den Film",
+        "fr": "Devine le film",
+        "it": "Indovina il film",
+        "pt": "Adivinhe o filme",
+        "nl": "Raad de film",
+        "el": "Μάντεψε την ταινία",
+        "pl": "Zgadnij film",
+        "ru": "Угадай фильм",
+        "ja": "映画を当てよう",
+        "ko": "영화 맞히기"
+      },
+      "iconUrl": "https://play-lh.googleusercontent.com/XWv227P6Miy1V3srLb7Nq6w-B89QwO-67JgXX_zgW1ahg07CSLN9U6C2AhpFjMY6q2nEieyNZXWgjb2qWgw9jJ0",
+      "playUrl": "https://play.google.com/store/apps/details?id=com.enrasoft.scratch.movie.quiz",
       "developerId": "4898984495339363497"
     },
     {
