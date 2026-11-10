@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T16:15:47.836Z",
-  "verifiedDate": "2026-11-09",
+  "generatedAt": "2026-11-10T14:51:51.744Z",
+  "verifiedDate": "2026-11-10",
   "referenceCountry": "es",
-  "signature": "816af2a42b6a90646a81532d2b09e7359e75a5dda97aff1849c9d6db9349ce31",
+  "signature": "49c1a75fffac066b21ae15c1b2062d0a35d0bd1edcfd2335c195ae4395e0e3e6",
   "sources": [
     {
       "developerId": "8192983551091354439",
@@ -67,6 +67,27 @@
       },
       "iconUrl": "https://play-lh.googleusercontent.com/EsHobKhE5TRWDhp7E9wtN5RBbzNKa9sJ_E0xR5awMYpdzaepjpiYd7PVVw9VuMxmzCl-fOgMftaQFBCj2dmz2Kg",
       "playUrl": "https://play.google.com/store/apps/details?id=com.enrasoft.IdleFactories",
+      "developerId": "4898984495339363497"
+    },
+    {
+      "packageName": "com.enrasoft.idleHauntedHouse",
+      "title": "Candy Factory Idle",
+      "titles": {
+        "en": "Candy Factory Idle",
+        "es": "Fábrica de Dulces Idle",
+        "de": "Süßigkeitenfabrik Idle",
+        "fr": "Fabrique de Bonbons Idle",
+        "it": "Fabbrica di Dolci Idle",
+        "pt": "Fábrica de Doces Idle",
+        "nl": "Candy Factory Idle",
+        "el": "Candy Factory Idle",
+        "pl": "Fabryka Słodyczy Idle",
+        "ru": "Фабрика сладостей Idle",
+        "ja": "Candy Factory Idle",
+        "ko": "캔디 공장 Idle"
+      },
+      "iconUrl": "https://play-lh.googleusercontent.com/a1f7G--Y6V5AMFD5snU3wKMA_gM1YGFJeiIAAQqcnq9J8oI6XVkkIAo6S5EfUs4MMFj_qT9T3SppHT5XZsCj",
+      "playUrl": "https://play.google.com/store/apps/details?id=com.enrasoft.idleHauntedHouse",
       "developerId": "4898984495339363497"
     },
     {
@@ -154,48 +175,6 @@
       "developerId": "4898984495339363497"
     },
     {
-      "packageName": "com.enrasoft.scratchthat.logoquiz",
-      "title": "Scratch Logo Quiz",
-      "titles": {
-        "en": "Scratch Logo Quiz",
-        "es": "Scratch Logo Quiz: Rasca logos",
-        "de": "Scratch: Marken erraten",
-        "fr": "Scratch: Devine la marque",
-        "it": "Scratch: Indovina il logo",
-        "pt": "Scratch: Adivinhe o Logo",
-        "nl": "Scratch: Raad het logo",
-        "el": "Scratch: Κουίζ λογοτύπων",
-        "pl": "Scratch: Zgadnij logo",
-        "ru": "Scratch: Угадай логотип",
-        "ja": "Scratch ロゴ当てクイズ",
-        "ko": "Scratch 로고 퀴즈"
-      },
-      "iconUrl": "https://play-lh.googleusercontent.com/n0aZXk6a-lsi1Rk0jZJ4gax_tKORvEmfzgLnv4-JxFzGKz9VHnZbJMU_MhudwNdrMFnLr074FlHQN7FXvU5GFpU",
-      "playUrl": "https://play.google.com/store/apps/details?id=com.enrasoft.scratchthat.logoquiz",
-      "developerId": "4898984495339363497"
-    },
-    {
-      "packageName": "com.enrasoft.scratchthat.placequiz",
-      "title": "Scratch: Places & Flags",
-      "titles": {
-        "en": "Scratch: Places & Flags",
-        "es": "Rasca: Lugares y Banderas",
-        "de": "Rubbelquiz: Orte & Flaggen",
-        "fr": "Gratte : lieux et drapeaux",
-        "it": "Gratta: Luoghi e Bandiere",
-        "pt": "Raspe: Lugares e Bandeiras",
-        "nl": "Krasquiz: Plekken & Vlaggen",
-        "el": "Ξύσε: Μέρη και σημαίες",
-        "pl": "Zdrap: Miejsca i Flagi",
-        "ru": "Сотри: Места и флаги",
-        "ja": "スクラッチ：名所と国旗クイズ",
-        "ko": "스크래치: 명소와 국기 퀴즈"
-      },
-      "iconUrl": "https://play-lh.googleusercontent.com/2qbl4Qc2xC00NTn9DsR5XplmfZocjkNKWQ2xQWvAlJWuhpUm2008xrQ1SvSZ_ZF8ZS5lbf6WdKpux7JKTxNOTA",
-      "playUrl": "https://play.google.com/store/apps/details?id=com.enrasoft.scratchthat.placequiz",
-      "developerId": "4898984495339363497"
-    },
-    {
       "packageName": "com.enrasoft.star.brain.quiz.pro",
       "title": "QuizMundi: General Knowledge",
       "titles": {
@@ -214,6 +193,27 @@
       },
       "iconUrl": "https://play-lh.googleusercontent.com/L0EzLcdDX0ue28RtNHJL8Xzp4EW62sGXr7AkTbKA3xW07HvZfxvLZAkAY08nTtNZI0ulQj7sKYzpeRdJ6gFS2ms",
       "playUrl": "https://play.google.com/store/apps/details?id=com.enrasoft.star.brain.quiz.pro",
+      "developerId": "4898984495339363497"
+    },
+    {
+      "packageName": "scratch.movie.quiz.puzzle.trivia",
+      "title": "Movie & TV Emoji Scratch Quiz",
+      "titles": {
+        "en": "Movie & TV Emoji Scratch Quiz",
+        "es": "Adivina Cine y Series: Emojis",
+        "de": "Film & Serien Emoji Quiz",
+        "fr": "Films & Séries : Quiz Emoji",
+        "it": "Film e serie: Quiz Emoji",
+        "pt": "Filmes e Séries: Quiz Emoji",
+        "nl": "Film & Serie Emoji Quiz",
+        "el": "Ταινίες & Σειρές: Emoji",
+        "pl": "Filmy i seriale: Quiz Emoji",
+        "ru": "Фильмы и сериалы: Эмодзи",
+        "ja": "Movie & TV Emoji Scratch Quiz",
+        "ko": "Movie & TV Emoji Scratch Quiz"
+      },
+      "iconUrl": "https://play-lh.googleusercontent.com/xydN_Sdvoz8LCtVyywGdkgqhGzGGsuKNZc8Z9opDvpz0YK9q9BWmJ-u3OjF7Qwr9aiVAjzylIZwKlwST3qYMcjY",
+      "playUrl": "https://play.google.com/store/apps/details?id=scratch.movie.quiz.puzzle.trivia",
       "developerId": "4898984495339363497"
     },
     {
