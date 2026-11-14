@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T14:34:00.047Z",
-  "verifiedDate": "2026-11-13",
+  "generatedAt": "2026-11-14T13:29:45.063Z",
+  "verifiedDate": "2026-11-14",
   "referenceCountry": "es",
-  "signature": "c15ea2bb4eab7f28aad028dde574df584873381093d01963d49486c75f79e135",
+  "signature": "2467df2e1671fe20991cfafa74d0d9b194ab1dcb42fb49ca9802de3c18567607",
   "sources": [
     {
       "developerId": "8192983551091354439",
@@ -133,27 +133,6 @@
       "developerId": "4898984495339363497"
     },
     {
-      "packageName": "com.enrasoft.scratch.celebrity.quiz",
-      "title": "Scratch Celebrity Quiz",
-      "titles": {
-        "en": "Scratch Celebrity Quiz",
-        "es": "Rasca Famosos: Quiz de Caras",
-        "de": "Rubbelquiz: Promis erraten",
-        "fr": "Gratte : Quiz Célébrités",
-        "it": "Gratta: Quiz delle Celebrità",
-        "pt": "Raspe: Quiz de Famosos",
-        "nl": "Krasquiz: Raad de Beroemdheid",
-        "el": "Ξύσε: Κουίζ Διασήμων",
-        "pl": "Zdrap: Zgadnij Celebrytę",
-        "ru": "Сотри: угадай знаменитость",
-        "ja": "けずって当てる有名人クイズ",
-        "ko": "긁어서 맞히는 유명인 퀴즈"
-      },
-      "iconUrl": "https://play-lh.googleusercontent.com/Me4KkOa2j_UxmMlkAtpCW3Nfq_FRaKSf0Xe5jsX4tLjOyVXRfV5fTuoUFgsEG60JU3Dtx48LL2QS7bS4l88pWg",
-      "playUrl": "https://play.google.com/store/apps/details?id=com.enrasoft.scratch.celebrity.quiz",
-      "developerId": "4898984495339363497"
-    },
-    {
       "packageName": "com.enrasoft.scratch.movie.quiz",
       "title": "Guess the Movie",
       "titles": {
@@ -193,6 +172,27 @@
       },
       "iconUrl": "https://play-lh.googleusercontent.com/L0EzLcdDX0ue28RtNHJL8Xzp4EW62sGXr7AkTbKA3xW07HvZfxvLZAkAY08nTtNZI0ulQj7sKYzpeRdJ6gFS2ms",
       "playUrl": "https://play.google.com/store/apps/details?id=com.enrasoft.star.brain.quiz.pro",
+      "developerId": "4898984495339363497"
+    },
+    {
+      "packageName": "emoji.quiz.scratch.logo.guess.puzzle",
+      "title": "Emoji Quiz: Scratch and Guess",
+      "titles": {
+        "en": "Emoji Quiz: Scratch and Guess",
+        "es": "Emoji Quiz: rasca y adivina",
+        "de": "Emoji-Quiz: Rubbeln und raten",
+        "fr": "Quiz Emoji : gratte et devine",
+        "it": "Emoji Quiz: Gratta e Indovina",
+        "pt": "Quiz Emoji: Raspe e adivinhe",
+        "nl": "Emoji-quiz: kras en raad",
+        "el": "Emoji Quiz: Ξύστε και μαντέψτε",
+        "pl": "Quiz Emoji: Zdrap i zgadnij",
+        "ru": "Эмодзи-квиз: Сотри и угадай",
+        "ja": "絵文字クイズ：けずって当てよう",
+        "ko": "이모지 퀴즈: 긁고 맞히기"
+      },
+      "iconUrl": "https://play-lh.googleusercontent.com/l5SlZsD7dg0Mn7SeU528Im8kTKI3M7a7ObGjuU2tgvEXpZTp1XiVAE8rFtJWdPUsT4OY71rVtkfo5HRNlNVp",
+      "playUrl": "https://play.google.com/store/apps/details?id=emoji.quiz.scratch.logo.guess.puzzle",
       "developerId": "4898984495339363497"
     },
     {
