@@ -1,0 +1,40 @@
+:root {
+  color-scheme: dark;
+  color: #f4efec;
+  background: #151217;
+  font: 17px/1.65 system-ui, sans-serif;
+}
+body {
+  max-inline-size: 72ch;
+  margin: 0 auto;
+  padding: 0 clamp(1rem, 4vw, 2.5rem);
+  overflow-wrap: anywhere;
+}
+header, footer {
+  border-block-end: 1px solid #514653;
+  padding-block: 1rem;
+}
+header {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: .5rem 1rem;
+  font-weight: 650;
+}
+main {
+  padding-block: .5rem 1.25rem;
+}
+footer {
+  border-block: 1px solid #514653 transparent;
+}
+a {
+  color: #f0c998;
+  text-underline-offset: .18em;
+}
+a:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 4px;
+}
+h1 {
+  line-height: 1.2;
+}
