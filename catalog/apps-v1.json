@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T14:33:14.874Z",
-  "verifiedDate": "2026-11-22",
+  "generatedAt": "2026-11-23T18:05:23.102Z",
+  "verifiedDate": "2026-11-23",
   "referenceCountry": "es",
-  "signature": "a069a937e89336bd10b7583c0dd2ddd726976efd84865580219ae3ba364566a6",
+  "signature": "46d32efa52dce7810ac0f7b238ee27dca865d7e4d4f077f55ad2e3310c7235e5",
   "sources": [
     {
       "developerId": "8192983551091354439",
@@ -27,6 +27,27 @@
     }
   ],
   "apps": [
+    {
+      "packageName": "com.enrasoft.ar.ghost.detector",
+      "title": "Ghost Radar AR: Horror Game",
+      "titles": {
+        "en": "Ghost Radar AR: Horror Game",
+        "es": "Ghost Radar AR: Fantasmas",
+        "de": "Ghost Radar AR: Horror",
+        "fr": "Ghost Radar AR : Horreur",
+        "it": "Ghost Radar AR: Horror",
+        "pt": "Ghost Radar AR: Terror",
+        "nl": "Ghost Radar AR: Horror",
+        "el": "Ghost Radar AR: Τρόμος",
+        "pl": "Ghost Radar AR: Horror",
+        "ru": "Ghost Radar AR: Ужасы",
+        "ja": "Ghost Radar AR：ホラー",
+        "ko": "Ghost Radar AR: 호러"
+      },
+      "iconUrl": "https://play-lh.googleusercontent.com/geokwtGs4HHWQBRGCqnHu08jFUwAvga0vYHet7uEpfN6O8BT1CzgSYOhERSgL8wQO_1-DWWMVxl6cOnG5Nxs",
+      "playUrl": "https://play.google.com/store/apps/details?id=com.enrasoft.ar.ghost.detector",
+      "developerId": "4898984495339363497"
+    },
     {
       "packageName": "com.enrasoft.breakingnews",
       "title": "Breaking News Spain",
@@ -130,27 +151,6 @@
       },
       "iconUrl": "https://play-lh.googleusercontent.com/ZFOh3607-Tom_5HJ0o-MV44ZbgQre5HXo7Uqp0Kqto5t-QCU5OFbEtnM2lnt4vz0U1Tp2aFGzMmrayiV3-3gTw",
       "playUrl": "https://play.google.com/store/apps/details?id=com.enrasoft.questions.quiz.pro",
-      "developerId": "4898984495339363497"
-    },
-    {
-      "packageName": "com.enrasoft.scratch.movie.quiz",
-      "title": "Guess the Movie",
-      "titles": {
-        "en": "Guess the Movie",
-        "es": "Adivina la película",
-        "de": "Errate den Film",
-        "fr": "Devine le film",
-        "it": "Indovina il film",
-        "pt": "Adivinhe o filme",
-        "nl": "Raad de film",
-        "el": "Μάντεψε την ταινία",
-        "pl": "Zgadnij film",
-        "ru": "Угадай фильм",
-        "ja": "映画を当てよう",
-        "ko": "영화 맞히기"
-      },
-      "iconUrl": "https://play-lh.googleusercontent.com/XWv227P6Miy1V3srLb7Nq6w-B89QwO-67JgXX_zgW1ahg07CSLN9U6C2AhpFjMY6q2nEieyNZXWgjb2qWgw9jJ0",
-      "playUrl": "https://play.google.com/store/apps/details?id=com.enrasoft.scratch.movie.quiz",
       "developerId": "4898984495339363497"
     },
     {
