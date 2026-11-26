@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T17:12:10.254Z",
-  "verifiedDate": "2026-11-25",
+  "generatedAt": "2026-11-26T16:52:48.829Z",
+  "verifiedDate": "2026-11-26",
   "referenceCountry": "es",
-  "signature": "c683242e9caa81ad3e5a83fff9109df60b48c1e953ae6c35299f7943f0d23999",
+  "signature": "05ebe5b5cc809e0ab1c889145948eec46228eb251aff3e9030f84c5686aa65d0",
   "sources": [
     {
       "developerId": "8192983551091354439",
@@ -116,19 +116,19 @@
       "title": "Millionaire Trivia: Quiz Game",
       "titles": {
         "en": "Millionaire Trivia: Quiz Game",
-        "es": "Millionaire Trivia: Juego Quiz",
-        "de": "Millionär Trivia: Quiz Spiel",
-        "fr": "Millionaire Trivia : Jeu Quiz",
-        "it": "Millionaire Trivia: Gioco Quiz",
+        "es": "Millionaire: Quiz de preguntas",
+        "de": "Millionär: Allgemeinwissen",
+        "fr": "Millionnaire Culture Générale",
+        "it": "Millionaire: Cultura generale",
         "pt": "Millionaire Trivia: Quiz Game",
         "nl": "Millionaire Trivia: Quiz Game",
         "el": "Millionaire Trivia: Quiz Game",
         "pl": "Millionaire Trivia: Quiz Game",
-        "ru": "Викторина Миллионер: Квиз Игра",
+        "ru": "Миллионер: Викторина",
         "ja": "Millionaire Trivia: Quiz Game",
         "ko": "Millionaire Trivia: Quiz Game"
       },
-      "iconUrl": "https://play-lh.googleusercontent.com/ZBfZ-God1M9fNFhOBrdoFtWxpbVZu4YgD2AW4l_9tGpuRSjwozCaQ_P7uYwQ9JJe9SIYEuYZtpis0ZjffMv1Ng",
+      "iconUrl": "https://play-lh.googleusercontent.com/pcsb/AEecphYHK1Lv6NcJ5bKGJpjkmtVmAiQORyrAKjrsZVEKvcsa6pTbZcRTuEH2pjLyxj8KMKgNemrUHBuHFK3YCPoUYgrz92q2gdc",
       "playUrl": "https://play.google.com/store/apps/details?id=com.enrasoft.millionaire.quiz",
       "developerId": "4898984495339363497"
     },
