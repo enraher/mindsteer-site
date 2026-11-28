@@ -7,3 +7,4 @@
 
 .editorial h3{margin-top:30px}
 .hero-photo img{width:100%;height:auto}
+.article section{border-top:1px solid var(--line);margin-top:42px}.article section p{margin-bottom:14px;color:#615969}.article section .muted{margin-top:18px}.article h3{font-size:17px;margin:28px 0 10px}.article ul{padding-left:20px;margin:0 0 24px}.article ul a{text-decoration:none}.seller{display:grid;grid-template-columns:auto minmax(0,1fr);gap:4px 18px;font-size:13px;line-height:1.6;margin:0 0 8px;padding:16px 20px;border:1px solid var(--line);border-radius:5px}.seller dt{font-weight:600}.seller dd{margin:0;color:#615969;overflow-wrap:anywhere}
