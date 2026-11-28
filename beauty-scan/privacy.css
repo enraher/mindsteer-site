@@ -1,0 +1,9 @@
+:root { color-scheme: light; font: 17px/1.65 system-ui, sans-serif; color: #211a2e; background: #faf7fe; }
+body { margin: 0; }
+main { max-width: 760px; margin: auto; padding: 32px 22px 64px; }
+header { border-bottom: 1px solid #bfa8cf; padding-bottom: 12px; }
+h1 { font-size: clamp(28px, 5vw, 40px); line-height: 1.15; }
+h2 { font-size: 22px; line-height: 1.3; }
+section { margin-top: 28px; }
+a { color: #5c277d; }
+code { overflow-wrap: anywhere; }
